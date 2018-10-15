@@ -7,4 +7,4 @@ An animated 3D sine wave. Demonstrates 3D visualizations and animation in matplo
 ### Files
 
 animated_3d_sin_wave.py - The source code for generating/animating the plots. Settings are located at the start.
-rotating_sin_wave.mp4 - A 1080p example video
+rotating_sine_wave.mp4 - A 1080p example video
